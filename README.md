@@ -1,2 +1,4 @@
 # tec-api
-Repositorio par aulas de API
+Repositorio para aulas de API
+
+## DEUS ABENÇÕEEE
